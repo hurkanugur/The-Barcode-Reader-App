@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Hurcoder</string>
+    <string name="linkedin">
+        <a href="https://www.linkedin.com/in/hurkanugur">Follow me on LinkedIn</a>
+    </string>
+    <string name="github">
+        <a href="https://github.com/hurkanugur">Follow me on GitHub</a>
+    </string>
+    <string name="title_activity_product_web_view">ProductWebView</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
