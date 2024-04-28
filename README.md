@@ -1,2 +1,2 @@
 # The-Barcode-Reader-App
-By using Hurcoder, you can scan any barcode of products, and then it lists you the same product with different prices as well as their sellers. [Android] 
+With Hurcoder, you can effortlessly scan any product barcode on your Android device, instantly presenting you with a comprehensive list of prices and sellers for the same item.
