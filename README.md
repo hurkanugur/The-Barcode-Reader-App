@@ -1,2 +1,2 @@
 # The-Barcode-Reader-App
-With Hurcoder, you can effortlessly scan any product barcode on your Android device, instantly presenting you with a comprehensive list of prices and sellers for the same item.
+A barcode reader app built with Java and Android that scans barcodes and lists products.
